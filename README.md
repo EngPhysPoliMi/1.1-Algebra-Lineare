@@ -1,6 +1,6 @@
-# 1.1-Algebra-Lineare
+# 1.1 - Algebra Lineare
 
-1.1 Algebra Lineare
+Repository for "Algebra Lineare".
 
 
 ## Use instructions
